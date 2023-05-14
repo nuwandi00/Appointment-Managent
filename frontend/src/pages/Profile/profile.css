@@ -1,0 +1,52 @@
+.card-profile-stats img {
+    max-width: 86px;
+    border-radius: 50%;
+    border: 1px solid #111;
+}
+
+.email {
+    color: rgb(238, 101, 122);
+}
+
+.location {
+    color: blue;
+}
+
+.calendar {
+    color: rebeccapurple;
+}
+
+.btn-Edit {
+    background-color: #a66f72;
+    border: none;
+    width: 30%;
+    padding: 1%;
+    margin-top: 10%;
+    border-radius: 5px;
+    height: 60%;
+    margin-right: 10%;
+    color: white;
+}
+
+.btn-Delete {
+    background-color: #a66f72;
+    border: none;
+    width: 30%;
+    padding: 1%;
+    margin-top: 20%;
+    border-radius: 5px;
+    height: 60%;
+    color: white;
+}
+
+.btn-Delete:hover {
+    box-shadow: 1px 3px 5px rgba(10, 10, 10, 10);
+    background: #a66f72;
+    color: white;
+}
+
+.btn-Edit:hover {
+    box-shadow: 1px 3px 5px rgba(10, 10, 10, 10);
+    background: #a66f72;
+    color: white;
+}

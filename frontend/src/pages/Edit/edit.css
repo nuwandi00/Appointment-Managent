@@ -1,0 +1,19 @@
+.profile_div img {
+    max-width: 56px;
+    border-radius: 50%;
+    border: 1px solid #111;
+}
+
+.btn-submit {
+    background-color: #a66f72;
+    border: none;
+    width: 80%;
+    margin-top: 3%;
+    border-radius: 5px;
+    height: 60%;
+}
+
+.btn-submit:hover {
+    box-shadow: 1px 3px 5px rgba(10, 10, 10, 10);
+    background: #a66f72;
+}

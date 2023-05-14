@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.custom-btn {
+  background-color: #a66f62;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  color: #ffffff;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+
+}
+
+.custom-btn:hover {
+  box-shadow: 1px 3px 5px rgba(10, 10, 10, 10);
+}
